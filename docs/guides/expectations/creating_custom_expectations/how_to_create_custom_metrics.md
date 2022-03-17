@@ -14,7 +14,7 @@ This guide will help you implement a custom Metric in Pandas using the appropria
 
 </Prerequisites>
 
-### Steps
+## Steps
 
 The details of this process differ based on the type of Expectations you are implementing. 
 
